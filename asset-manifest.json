@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vision-app/static/css/main.b2a8a88c.css",
+    "main.js": "/vision-app/static/js/main.cd293bdd.js",
+    "index.html": "/vision-app/index.html",
+    "main.b2a8a88c.css.map": "/vision-app/static/css/main.b2a8a88c.css.map",
+    "main.cd293bdd.js.map": "/vision-app/static/js/main.cd293bdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a8a88c.css",
+    "static/js/main.cd293bdd.js"
+  ]
+}
