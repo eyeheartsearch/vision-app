@@ -16,7 +16,7 @@ Looking at your app, here is an example of what a single record might include. T
 
 {
   "title": "movie-title-here",
-  “Description”: “movie-description”,
+  “description”: “movie-description”,
   "year": "movie-image",
   “actors-and-actresses”: [“actor-1”, “actor-2”]
   "image": "movie-image-public-url”,
