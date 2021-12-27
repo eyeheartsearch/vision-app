@@ -1,7 +1,7 @@
 Interact with the vision-app via Github Pages: 
 https://eyeheartsearch.github.io/vision-app/
 
-Powered by Algolia, the vision-app is the “public image search” section of a larger application where users can create their own vision boards. A vision board is a board (physical or digital) where people can add pictures and text that represent the things they intend to bring into their lives. For example, someone could add a picture of a traveler visiting a beach if they wish to travel more. The “public image search” section allows users to search for inspiration they can add to their own vision boards. 
+Powered by Algolia, the vision-app is the “public image search” section of a larger application where users can create their own vision boards. A vision board is a board (physical or digital) where people can add pictures and text that represent things they intend to bring into their lives. For example, someone could add a picture of a traveler visiting a beach if they wish to travel more. The “public image search” section allows users to search for inspiration they can add to their own vision boards. 
 
 The first thing I wanted was a rich and practical dataset composed of images that users can add to their vision boards. I wanted the dataset to include searchable attributes as well as custom ranking attributes I could experiment with. 
 
