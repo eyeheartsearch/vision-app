@@ -19,7 +19,7 @@ saves - A custom ranking attribute based on a number pseudo-randomly generated b
 The experience was built using Algolia with React InstantSearch:
 https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/
 
-I was incredibly impressed by the performance and features. I used several of the widgets which made development enjoyable and easier to hit the ground running. The widgets utilized included SearchBox, Hits, Pagination, Highlight, ClearRefinements, RefinementList, and Configure. I enjoyed researching and configuring the widgets and I’m excited about how many features they include. It’s also nice how the widgets can be extended.
+I was incredibly impressed by Algolia's performance and features. I used several of the widgets which made development enjoyable and easier to hit the ground running. The widgets utilized included SearchBox, Hits, Pagination, Highlight, ClearRefinements, RefinementList, and Configure. I enjoyed researching and configuring the widgets and I’m excited about how many features they include. It’s also nice how the widgets can be extended.
 
 In the Algolia UI, the index configuration was intuitive and easy to use. I configured de-duplication based on the image URL which worked great when tested on the duplicate images. I experimented with things like typo tolerance and re-ordering searchable attributes. I experimented with the “like” and “save” custom ranking attributes which I generated with a pseudo-random number generator. I can see how custom attributes can be a powerful way to rank results if that data is available or if it can be calculated. 
 
